@@ -1,0 +1,32 @@
+.menu {
+    font-size: 20px;
+    font-family: "consolas";
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    display: inline-block; 
+}
+
+.opened {
+    font-size: 25px;
+    font-family: "consolas";
+    text-align: center;
+}
+
+.timeBox {
+    width: 60px;
+    height: 22px;
+    border: 2px solid black;
+    font-size: 20px;
+    font-family: "consolas";
+}
+
+.mine {
+    font-size: 25px;
+    font-family: "consolas";
+    text-align: center;
+    color: red;
+}
